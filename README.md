@@ -27,3 +27,4 @@ The default configuration is optimized for **AMD GPU acceleration** (`hevc_amf`)
 ## ⚙️ Installation
 Clone this repository and ensure that `ffmpeg` is installed:
 
+## ▶️ Run with `conv.bat`
